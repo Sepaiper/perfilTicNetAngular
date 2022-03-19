@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Enterprise Bussines Rules", "Enterprise Bussines Rules", "{8CDC863B-B492-406D-BA17-00E738F365CC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Application Bussines Rules", "Application Bussines Rules", "{504E9DBA-C031-4347-8EC8-C422908F81F6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Interface Adapters", "Interface Adapters", "{4C86F48E-3C4D-428D-8B81-A44A02096685}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Frameworks And Drivers", "Frameworks And Drivers", "{8F262A6D-1B4F-42EC-9CBC-FE085CCD0C37}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "perfilTicNetProducts.Entities", "perfilTicNetProducts.Entities\perfilTicNetProducts.Entities.csproj", "{50D58BED-78BB-4A36-B1DC-0D7817AF2C25}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{50D58BED-78BB-4A36-B1DC-0D7817AF2C25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50D58BED-78BB-4A36-B1DC-0D7817AF2C25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50D58BED-78BB-4A36-B1DC-0D7817AF2C25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50D58BED-78BB-4A36-B1DC-0D7817AF2C25}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{50D58BED-78BB-4A36-B1DC-0D7817AF2C25} = {8CDC863B-B492-406D-BA17-00E738F365CC}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8E95CFDF-599E-4854-91FC-C8DD7158548A}
+	EndGlobalSection
+EndGlobal
