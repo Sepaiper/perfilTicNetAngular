@@ -1,0 +1,12 @@
+C:\Users\eeste\Documents\Area de trabajo\perfilTicNetAngular\perfilTicNetProducts\perfilTicNetProducts.Entities\bin\Debug\net5.0\perfilTicNetProducts.Entities.deps.json
+C:\Users\eeste\Documents\Area de trabajo\perfilTicNetAngular\perfilTicNetProducts\perfilTicNetProducts.Entities\bin\Debug\net5.0\perfilTicNetProducts.Entities.dll
+C:\Users\eeste\Documents\Area de trabajo\perfilTicNetAngular\perfilTicNetProducts\perfilTicNetProducts.Entities\bin\Debug\net5.0\ref\perfilTicNetProducts.Entities.dll
+C:\Users\eeste\Documents\Area de trabajo\perfilTicNetAngular\perfilTicNetProducts\perfilTicNetProducts.Entities\bin\Debug\net5.0\perfilTicNetProducts.Entities.pdb
+C:\Users\eeste\Documents\Area de trabajo\perfilTicNetAngular\perfilTicNetProducts\perfilTicNetProducts.Entities\obj\Debug\net5.0\perfilTicNetProducts.Entities.csproj.AssemblyReference.cache
+C:\Users\eeste\Documents\Area de trabajo\perfilTicNetAngular\perfilTicNetProducts\perfilTicNetProducts.Entities\obj\Debug\net5.0\perfilTicNetProducts.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eeste\Documents\Area de trabajo\perfilTicNetAngular\perfilTicNetProducts\perfilTicNetProducts.Entities\obj\Debug\net5.0\perfilTicNetProducts.Entities.AssemblyInfoInputs.cache
+C:\Users\eeste\Documents\Area de trabajo\perfilTicNetAngular\perfilTicNetProducts\perfilTicNetProducts.Entities\obj\Debug\net5.0\perfilTicNetProducts.Entities.AssemblyInfo.cs
+C:\Users\eeste\Documents\Area de trabajo\perfilTicNetAngular\perfilTicNetProducts\perfilTicNetProducts.Entities\obj\Debug\net5.0\perfilTicNetProducts.Entities.csproj.CoreCompileInputs.cache
+C:\Users\eeste\Documents\Area de trabajo\perfilTicNetAngular\perfilTicNetProducts\perfilTicNetProducts.Entities\obj\Debug\net5.0\perfilTicNetProducts.Entities.dll
+C:\Users\eeste\Documents\Area de trabajo\perfilTicNetAngular\perfilTicNetProducts\perfilTicNetProducts.Entities\obj\Debug\net5.0\ref\perfilTicNetProducts.Entities.dll
+C:\Users\eeste\Documents\Area de trabajo\perfilTicNetAngular\perfilTicNetProducts\perfilTicNetProducts.Entities\obj\Debug\net5.0\perfilTicNetProducts.Entities.pdb
