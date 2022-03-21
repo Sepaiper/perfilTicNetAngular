@@ -16,7 +16,6 @@ namespace PerfilTicNetProducts.Repository.Repositories
 
         public Task<int> SaveChanges()
         {
-            //TODO: Manejar excepciones
             return Context.SaveChangesAsync();
         }
     }

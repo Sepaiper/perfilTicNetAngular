@@ -17,38 +17,101 @@ namespace PerfilTicNetProducts.Repository.Repositories
 
         public void CreateProduct(Product product)
         {
-            Context.Add(product);
+            try
+            {
+                Context.Add(product);
+            }
+            catch (Exception e)
+            {
+                throw new Exception(e.Message);
+            }
         }
 
 
-        public Product ReadProduct(int idProduct)
+        public void ReadProduct(Product product)
         {
-            return Context.Products.Find(idProduct);
+            try
+            {
+                Product productTemporal = Context.Products.Find(product.Id);
+                if (productTemporal != null)
+                {
+                    product.Name = productTemporal.Name;
+                    product.Description = productTemporal.Description;
+                    product.Weight = productTemporal.Weight;
+                    product.Price = productTemporal.Price;
+                    product.Category = productTemporal.Category;
+                    product.ImageOne = productTemporal.ImageOne;
+                    product.ImageTwo = productTemporal.ImageTwo;
+                    product.ImageThree = productTemporal.ImageThree;
+                }
+            }
+            catch (Exception e)
+            {
+                throw new Exception(e.Message);
+            }
         }
 
-        public Product UpdateProduct(Product product)
+        public void UpdateProduct(Product product)
         {
-            var productTemporal = Context.Products.Find(product.Id);
-            productTemporal.Name = product.Name;
-            productTemporal.Description = product.Description;
-            productTemporal.Weight = product.Weight;
-            productTemporal.Category = product.Category;
-            productTemporal.ImageOne = product.ImageOne;
-            productTemporal.ImageTwo = product.ImageTwo;
-            productTemporal.ImageThree = product.ImageThree;
-            return productTemporal;
+            try
+            {
+                var productTemporal = Context.Products.Find(product.Id);
+                if (productTemporal != null)
+                {
+                    productTemporal.Name = product.Name;
+                    productTemporal.Description = product.Description;
+                    productTemporal.Weight = product.Weight;
+                    productTemporal.Category = product.Category;
+                    productTemporal.ImageOne = product.ImageOne;
+                    productTemporal.ImageTwo = product.ImageTwo;
+                    productTemporal.ImageThree = product.ImageThree;
+                }
+            }
+            catch (Exception e)
+            {
+                throw new Exception(e.Message);
+            }
         }
 
-        public void DeleteProduct(int idProduct)
+        public void DeleteProduct(Product product)
         {
-            var product = Context.Products.Find(idProduct);
-            Context.Products.Remove(product);
+            try
+            {
+                var productRemove = Context.Products.Find(product.Id);
+                if (productRemove != null)
+                {
+                    Context.Products.Remove(productRemove);
+                }
+            }
+            catch (Exception e)
+            {
+                throw new Exception(e.Message);
+            }
         }
 
-        public IEnumerable<Product> GetAll(int page, int perPage)
+        public void GetAll(ListProduct listProduct)
         {
-            //TODO: Pendiente devolver el count
-            return Context.Products.OrderBy(d => d.Name).Skip((perPage * page) - perPage).Take(perPage).ToList();
+            try
+            {
+                listProduct.Count = Context.Products.ToList().Count;
+                listProduct.ListProducts =  Context.Products.OrderBy(d => d.Name).Skip((listProduct.PerPage * listProduct.Page) - listProduct.PerPage).Take(listProduct.PerPage).ToList();
+            }
+            catch (Exception e)
+            {
+                throw new Exception(e.Message);
+            }
+        }
+
+        public void GetProductsBCategory(ListProductBCategory list)
+        {
+            try
+            {
+                list.Count = Context.Products.Where(p => p.Category == list.Id).Count();
+            }
+            catch (Exception e)
+            {
+                throw new Exception(e.Message);
+            }
         }
     }
 }
