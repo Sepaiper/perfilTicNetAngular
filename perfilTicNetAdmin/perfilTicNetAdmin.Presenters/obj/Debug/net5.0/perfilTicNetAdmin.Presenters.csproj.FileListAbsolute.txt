@@ -1,0 +1,17 @@
+C:\Users\eeste\Documents\Area de trabajo\perfilTicNetAngular\perfilTicNetAdmin\perfilTicNetAdmin.Presenters\bin\Debug\net5.0\perfilTicNetAdmin.Presenters.deps.json
+C:\Users\eeste\Documents\Area de trabajo\perfilTicNetAngular\perfilTicNetAdmin\perfilTicNetAdmin.Presenters\bin\Debug\net5.0\perfilTicNetAdmin.Presenters.dll
+C:\Users\eeste\Documents\Area de trabajo\perfilTicNetAngular\perfilTicNetAdmin\perfilTicNetAdmin.Presenters\bin\Debug\net5.0\ref\perfilTicNetAdmin.Presenters.dll
+C:\Users\eeste\Documents\Area de trabajo\perfilTicNetAngular\perfilTicNetAdmin\perfilTicNetAdmin.Presenters\bin\Debug\net5.0\perfilTicNetAdmin.Presenters.pdb
+C:\Users\eeste\Documents\Area de trabajo\perfilTicNetAngular\perfilTicNetAdmin\perfilTicNetAdmin.Presenters\bin\Debug\net5.0\perfilTicNetAdmin.DTOs.dll
+C:\Users\eeste\Documents\Area de trabajo\perfilTicNetAngular\perfilTicNetAdmin\perfilTicNetAdmin.Presenters\bin\Debug\net5.0\perfilTicNetAdmin.UseCasesPorts.dll
+C:\Users\eeste\Documents\Area de trabajo\perfilTicNetAngular\perfilTicNetAdmin\perfilTicNetAdmin.Presenters\bin\Debug\net5.0\perfilTicNetAdmin.DTOs.pdb
+C:\Users\eeste\Documents\Area de trabajo\perfilTicNetAngular\perfilTicNetAdmin\perfilTicNetAdmin.Presenters\bin\Debug\net5.0\perfilTicNetAdmin.UseCasesPorts.pdb
+C:\Users\eeste\Documents\Area de trabajo\perfilTicNetAngular\perfilTicNetAdmin\perfilTicNetAdmin.Presenters\obj\Debug\net5.0\perfilTicNetAdmin.Presenters.csproj.AssemblyReference.cache
+C:\Users\eeste\Documents\Area de trabajo\perfilTicNetAngular\perfilTicNetAdmin\perfilTicNetAdmin.Presenters\obj\Debug\net5.0\perfilTicNetAdmin.Presenters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eeste\Documents\Area de trabajo\perfilTicNetAngular\perfilTicNetAdmin\perfilTicNetAdmin.Presenters\obj\Debug\net5.0\perfilTicNetAdmin.Presenters.AssemblyInfoInputs.cache
+C:\Users\eeste\Documents\Area de trabajo\perfilTicNetAngular\perfilTicNetAdmin\perfilTicNetAdmin.Presenters\obj\Debug\net5.0\perfilTicNetAdmin.Presenters.AssemblyInfo.cs
+C:\Users\eeste\Documents\Area de trabajo\perfilTicNetAngular\perfilTicNetAdmin\perfilTicNetAdmin.Presenters\obj\Debug\net5.0\perfilTicNetAdmin.Presenters.csproj.CoreCompileInputs.cache
+C:\Users\eeste\Documents\Area de trabajo\perfilTicNetAngular\perfilTicNetAdmin\perfilTicNetAdmin.Presenters\obj\Debug\net5.0\perfilTicNetAdmin.Presenters.csproj.CopyComplete
+C:\Users\eeste\Documents\Area de trabajo\perfilTicNetAngular\perfilTicNetAdmin\perfilTicNetAdmin.Presenters\obj\Debug\net5.0\perfilTicNetAdmin.Presenters.dll
+C:\Users\eeste\Documents\Area de trabajo\perfilTicNetAngular\perfilTicNetAdmin\perfilTicNetAdmin.Presenters\obj\Debug\net5.0\ref\perfilTicNetAdmin.Presenters.dll
+C:\Users\eeste\Documents\Area de trabajo\perfilTicNetAngular\perfilTicNetAdmin\perfilTicNetAdmin.Presenters\obj\Debug\net5.0\perfilTicNetAdmin.Presenters.pdb

@@ -1,0 +1,12 @@
+C:\Users\eeste\Documents\Area de trabajo\perfilTicNetAngular\perfilTicNetAdmin\perfilTicNetAdmin.DTOs\bin\Debug\net5.0\perfilTicNetAdmin.DTOs.deps.json
+C:\Users\eeste\Documents\Area de trabajo\perfilTicNetAngular\perfilTicNetAdmin\perfilTicNetAdmin.DTOs\bin\Debug\net5.0\perfilTicNetAdmin.DTOs.dll
+C:\Users\eeste\Documents\Area de trabajo\perfilTicNetAngular\perfilTicNetAdmin\perfilTicNetAdmin.DTOs\bin\Debug\net5.0\ref\perfilTicNetAdmin.DTOs.dll
+C:\Users\eeste\Documents\Area de trabajo\perfilTicNetAngular\perfilTicNetAdmin\perfilTicNetAdmin.DTOs\bin\Debug\net5.0\perfilTicNetAdmin.DTOs.pdb
+C:\Users\eeste\Documents\Area de trabajo\perfilTicNetAngular\perfilTicNetAdmin\perfilTicNetAdmin.DTOs\obj\Debug\net5.0\perfilTicNetAdmin.DTOs.csproj.AssemblyReference.cache
+C:\Users\eeste\Documents\Area de trabajo\perfilTicNetAngular\perfilTicNetAdmin\perfilTicNetAdmin.DTOs\obj\Debug\net5.0\perfilTicNetAdmin.DTOs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eeste\Documents\Area de trabajo\perfilTicNetAngular\perfilTicNetAdmin\perfilTicNetAdmin.DTOs\obj\Debug\net5.0\perfilTicNetAdmin.DTOs.AssemblyInfoInputs.cache
+C:\Users\eeste\Documents\Area de trabajo\perfilTicNetAngular\perfilTicNetAdmin\perfilTicNetAdmin.DTOs\obj\Debug\net5.0\perfilTicNetAdmin.DTOs.AssemblyInfo.cs
+C:\Users\eeste\Documents\Area de trabajo\perfilTicNetAngular\perfilTicNetAdmin\perfilTicNetAdmin.DTOs\obj\Debug\net5.0\perfilTicNetAdmin.DTOs.csproj.CoreCompileInputs.cache
+C:\Users\eeste\Documents\Area de trabajo\perfilTicNetAngular\perfilTicNetAdmin\perfilTicNetAdmin.DTOs\obj\Debug\net5.0\perfilTicNetAdmin.DTOs.dll
+C:\Users\eeste\Documents\Area de trabajo\perfilTicNetAngular\perfilTicNetAdmin\perfilTicNetAdmin.DTOs\obj\Debug\net5.0\ref\perfilTicNetAdmin.DTOs.dll
+C:\Users\eeste\Documents\Area de trabajo\perfilTicNetAngular\perfilTicNetAdmin\perfilTicNetAdmin.DTOs\obj\Debug\net5.0\perfilTicNetAdmin.DTOs.pdb
