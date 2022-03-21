@@ -1,0 +1,17 @@
+C:\Users\eeste\Documents\Area de trabajo\perfilTicNetAngular\perfilTicNetProducts\PerfiltTicNetProduct.Presenters\bin\Debug\net5.0\PerfiltTicNetProduct.Presenters.deps.json
+C:\Users\eeste\Documents\Area de trabajo\perfilTicNetAngular\perfilTicNetProducts\PerfiltTicNetProduct.Presenters\bin\Debug\net5.0\PerfiltTicNetProduct.Presenters.dll
+C:\Users\eeste\Documents\Area de trabajo\perfilTicNetAngular\perfilTicNetProducts\PerfiltTicNetProduct.Presenters\bin\Debug\net5.0\ref\PerfiltTicNetProduct.Presenters.dll
+C:\Users\eeste\Documents\Area de trabajo\perfilTicNetAngular\perfilTicNetProducts\PerfiltTicNetProduct.Presenters\bin\Debug\net5.0\PerfiltTicNetProduct.Presenters.pdb
+C:\Users\eeste\Documents\Area de trabajo\perfilTicNetAngular\perfilTicNetProducts\PerfiltTicNetProduct.Presenters\bin\Debug\net5.0\PerfilTicNetProduct.DTOs.dll
+C:\Users\eeste\Documents\Area de trabajo\perfilTicNetAngular\perfilTicNetProducts\PerfiltTicNetProduct.Presenters\bin\Debug\net5.0\PerfilTicNetProduct.UseCasesPorts.dll
+C:\Users\eeste\Documents\Area de trabajo\perfilTicNetAngular\perfilTicNetProducts\PerfiltTicNetProduct.Presenters\bin\Debug\net5.0\PerfilTicNetProduct.UseCasesPorts.pdb
+C:\Users\eeste\Documents\Area de trabajo\perfilTicNetAngular\perfilTicNetProducts\PerfiltTicNetProduct.Presenters\bin\Debug\net5.0\PerfilTicNetProduct.DTOs.pdb
+C:\Users\eeste\Documents\Area de trabajo\perfilTicNetAngular\perfilTicNetProducts\PerfiltTicNetProduct.Presenters\obj\Debug\net5.0\PerfiltTicNetProduct.Presenters.csproj.AssemblyReference.cache
+C:\Users\eeste\Documents\Area de trabajo\perfilTicNetAngular\perfilTicNetProducts\PerfiltTicNetProduct.Presenters\obj\Debug\net5.0\PerfiltTicNetProduct.Presenters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eeste\Documents\Area de trabajo\perfilTicNetAngular\perfilTicNetProducts\PerfiltTicNetProduct.Presenters\obj\Debug\net5.0\PerfiltTicNetProduct.Presenters.AssemblyInfoInputs.cache
+C:\Users\eeste\Documents\Area de trabajo\perfilTicNetAngular\perfilTicNetProducts\PerfiltTicNetProduct.Presenters\obj\Debug\net5.0\PerfiltTicNetProduct.Presenters.AssemblyInfo.cs
+C:\Users\eeste\Documents\Area de trabajo\perfilTicNetAngular\perfilTicNetProducts\PerfiltTicNetProduct.Presenters\obj\Debug\net5.0\PerfiltTicNetProduct.Presenters.csproj.CoreCompileInputs.cache
+C:\Users\eeste\Documents\Area de trabajo\perfilTicNetAngular\perfilTicNetProducts\PerfiltTicNetProduct.Presenters\obj\Debug\net5.0\PerfiltTicNetProduct.Presenters.csproj.CopyComplete
+C:\Users\eeste\Documents\Area de trabajo\perfilTicNetAngular\perfilTicNetProducts\PerfiltTicNetProduct.Presenters\obj\Debug\net5.0\PerfiltTicNetProduct.Presenters.dll
+C:\Users\eeste\Documents\Area de trabajo\perfilTicNetAngular\perfilTicNetProducts\PerfiltTicNetProduct.Presenters\obj\Debug\net5.0\ref\PerfiltTicNetProduct.Presenters.dll
+C:\Users\eeste\Documents\Area de trabajo\perfilTicNetAngular\perfilTicNetProducts\PerfiltTicNetProduct.Presenters\obj\Debug\net5.0\PerfiltTicNetProduct.Presenters.pdb
