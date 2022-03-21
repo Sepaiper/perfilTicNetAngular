@@ -20,14 +20,14 @@ Swashbuckle.AspNetCore v5.6.3
 #### Migrations
 verify that you have SQL server installed on the computer, in each solution you must run the respective migrations in the package manager console with the following commands:
 ##### Admin
-add-migration InitialCreate -p perfilTicNetAdmin.Repository -c PerfilTicNetAdminContext -o Migrations -s perfilTicNetAdmin.Repository
-update-database -p perfilTicNetAdmin.Repository -s perfilTicNetAdmin.Repository
+* add-migration InitialCreate -p perfilTicNetAdmin.Repository -c PerfilTicNetAdminContext -o Migrations -s perfilTicNetAdmin.Repository
+* update-database -p perfilTicNetAdmin.Repository -s perfilTicNetAdmin.Repository
 ##### Products
-add-migration InitialCreate -p PerfilTicNetProducts.Repository -c PerfiltTicNetProductContext -o Migrations -s PerfilTicNetProducts.Repository
-update-database -p PerfilTicNetProducts.Repository -s PerfilTicNetProducts.Repository
+* add-migration InitialCreate -p PerfilTicNetProducts.Repository -c PerfiltTicNetProductContext -o Migrations -s PerfilTicNetProducts.Repository
+* update-database -p PerfilTicNetProducts.Repository -s PerfilTicNetProducts.Repository
 ##### Categories
-add-migration InitialCreate -p perfilTicNetCategories.Repository -c PerfilTicNetCategoriesContext -o Migrations -s perfilTicNetCategories.Repository
-update-database -p perfilTicNetCategories.Repository -s perfilTicNetCategories.Repository
+* add-migration InitialCreate -p perfilTicNetCategories.Repository -c PerfilTicNetCategoriesContext -o Migrations -s perfilTicNetCategories.Repository
+* update-database -p perfilTicNetCategories.Repository -s perfilTicNetCategories.Repository
 ***
 #### Configuration
 Open the solution of each project, if necessary open the Framework And Drivers folder and in the .Api project click on Set startup project
