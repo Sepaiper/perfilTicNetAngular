@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "perfilTicNetCategories.UseCasesPorts/1.0.0": {
+        "dependencies": {
+          "perfilTicNetCategories.DTOs": "1.0.0"
+        },
+        "runtime": {
+          "perfilTicNetCategories.UseCasesPorts.dll": {}
+        }
+      },
+      "perfilTicNetCategories.DTOs/1.0.0": {
+        "runtime": {
+          "perfilTicNetCategories.DTOs.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "perfilTicNetCategories.UseCasesPorts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "perfilTicNetCategories.DTOs/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

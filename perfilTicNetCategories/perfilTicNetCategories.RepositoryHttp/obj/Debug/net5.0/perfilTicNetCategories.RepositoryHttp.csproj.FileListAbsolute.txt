@@ -1,0 +1,15 @@
+C:\Users\eeste\Documents\Area de trabajo\perfilTicNetAngular\perfilTicNetCategories\perfilTicNetCategories.RepositoryHttp\bin\Debug\net5.0\perfilTicNetCategories.RepositoryHttp.deps.json
+C:\Users\eeste\Documents\Area de trabajo\perfilTicNetAngular\perfilTicNetCategories\perfilTicNetCategories.RepositoryHttp\bin\Debug\net5.0\perfilTicNetCategories.RepositoryHttp.dll
+C:\Users\eeste\Documents\Area de trabajo\perfilTicNetAngular\perfilTicNetCategories\perfilTicNetCategories.RepositoryHttp\bin\Debug\net5.0\ref\perfilTicNetCategories.RepositoryHttp.dll
+C:\Users\eeste\Documents\Area de trabajo\perfilTicNetAngular\perfilTicNetCategories\perfilTicNetCategories.RepositoryHttp\bin\Debug\net5.0\perfilTicNetCategories.RepositoryHttp.pdb
+C:\Users\eeste\Documents\Area de trabajo\perfilTicNetAngular\perfilTicNetCategories\perfilTicNetCategories.RepositoryHttp\bin\Debug\net5.0\perfilTicNetCategories.Entities.dll
+C:\Users\eeste\Documents\Area de trabajo\perfilTicNetAngular\perfilTicNetCategories\perfilTicNetCategories.RepositoryHttp\bin\Debug\net5.0\perfilTicNetCategories.Entities.pdb
+C:\Users\eeste\Documents\Area de trabajo\perfilTicNetAngular\perfilTicNetCategories\perfilTicNetCategories.RepositoryHttp\obj\Debug\net5.0\perfilTicNetCategories.RepositoryHttp.csproj.AssemblyReference.cache
+C:\Users\eeste\Documents\Area de trabajo\perfilTicNetAngular\perfilTicNetCategories\perfilTicNetCategories.RepositoryHttp\obj\Debug\net5.0\perfilTicNetCategories.RepositoryHttp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eeste\Documents\Area de trabajo\perfilTicNetAngular\perfilTicNetCategories\perfilTicNetCategories.RepositoryHttp\obj\Debug\net5.0\perfilTicNetCategories.RepositoryHttp.AssemblyInfoInputs.cache
+C:\Users\eeste\Documents\Area de trabajo\perfilTicNetAngular\perfilTicNetCategories\perfilTicNetCategories.RepositoryHttp\obj\Debug\net5.0\perfilTicNetCategories.RepositoryHttp.AssemblyInfo.cs
+C:\Users\eeste\Documents\Area de trabajo\perfilTicNetAngular\perfilTicNetCategories\perfilTicNetCategories.RepositoryHttp\obj\Debug\net5.0\perfilTicNetCategories.RepositoryHttp.csproj.CoreCompileInputs.cache
+C:\Users\eeste\Documents\Area de trabajo\perfilTicNetAngular\perfilTicNetCategories\perfilTicNetCategories.RepositoryHttp\obj\Debug\net5.0\perfilTicNetCategories.RepositoryHttp.csproj.CopyComplete
+C:\Users\eeste\Documents\Area de trabajo\perfilTicNetAngular\perfilTicNetCategories\perfilTicNetCategories.RepositoryHttp\obj\Debug\net5.0\perfilTicNetCategories.RepositoryHttp.dll
+C:\Users\eeste\Documents\Area de trabajo\perfilTicNetAngular\perfilTicNetCategories\perfilTicNetCategories.RepositoryHttp\obj\Debug\net5.0\ref\perfilTicNetCategories.RepositoryHttp.dll
+C:\Users\eeste\Documents\Area de trabajo\perfilTicNetAngular\perfilTicNetCategories\perfilTicNetCategories.RepositoryHttp\obj\Debug\net5.0\perfilTicNetCategories.RepositoryHttp.pdb

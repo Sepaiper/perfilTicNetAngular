@@ -1,0 +1,12 @@
+C:\Users\eeste\Documents\Area de trabajo\perfilTicNetAngular\perfilTicNetCategories\perfilTicNetCategories.Entities\bin\Debug\net5.0\perfilTicNetCategories.Entities.deps.json
+C:\Users\eeste\Documents\Area de trabajo\perfilTicNetAngular\perfilTicNetCategories\perfilTicNetCategories.Entities\bin\Debug\net5.0\perfilTicNetCategories.Entities.dll
+C:\Users\eeste\Documents\Area de trabajo\perfilTicNetAngular\perfilTicNetCategories\perfilTicNetCategories.Entities\bin\Debug\net5.0\ref\perfilTicNetCategories.Entities.dll
+C:\Users\eeste\Documents\Area de trabajo\perfilTicNetAngular\perfilTicNetCategories\perfilTicNetCategories.Entities\bin\Debug\net5.0\perfilTicNetCategories.Entities.pdb
+C:\Users\eeste\Documents\Area de trabajo\perfilTicNetAngular\perfilTicNetCategories\perfilTicNetCategories.Entities\obj\Debug\net5.0\perfilTicNetCategories.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eeste\Documents\Area de trabajo\perfilTicNetAngular\perfilTicNetCategories\perfilTicNetCategories.Entities\obj\Debug\net5.0\perfilTicNetCategories.Entities.AssemblyInfoInputs.cache
+C:\Users\eeste\Documents\Area de trabajo\perfilTicNetAngular\perfilTicNetCategories\perfilTicNetCategories.Entities\obj\Debug\net5.0\perfilTicNetCategories.Entities.AssemblyInfo.cs
+C:\Users\eeste\Documents\Area de trabajo\perfilTicNetAngular\perfilTicNetCategories\perfilTicNetCategories.Entities\obj\Debug\net5.0\perfilTicNetCategories.Entities.csproj.CoreCompileInputs.cache
+C:\Users\eeste\Documents\Area de trabajo\perfilTicNetAngular\perfilTicNetCategories\perfilTicNetCategories.Entities\obj\Debug\net5.0\perfilTicNetCategories.Entities.dll
+C:\Users\eeste\Documents\Area de trabajo\perfilTicNetAngular\perfilTicNetCategories\perfilTicNetCategories.Entities\obj\Debug\net5.0\ref\perfilTicNetCategories.Entities.dll
+C:\Users\eeste\Documents\Area de trabajo\perfilTicNetAngular\perfilTicNetCategories\perfilTicNetCategories.Entities\obj\Debug\net5.0\perfilTicNetCategories.Entities.pdb
+C:\Users\eeste\Documents\Area de trabajo\perfilTicNetAngular\perfilTicNetCategories\perfilTicNetCategories.Entities\obj\Debug\net5.0\perfilTicNetCategories.Entities.csproj.AssemblyReference.cache

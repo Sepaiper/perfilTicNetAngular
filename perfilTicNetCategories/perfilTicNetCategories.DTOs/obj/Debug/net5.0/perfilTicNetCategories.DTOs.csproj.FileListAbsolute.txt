@@ -1,0 +1,12 @@
+C:\Users\eeste\Documents\Area de trabajo\perfilTicNetAngular\perfilTicNetCategories\perfilTicNetCategories.DTOs\bin\Debug\net5.0\perfilTicNetCategories.DTOs.deps.json
+C:\Users\eeste\Documents\Area de trabajo\perfilTicNetAngular\perfilTicNetCategories\perfilTicNetCategories.DTOs\bin\Debug\net5.0\perfilTicNetCategories.DTOs.dll
+C:\Users\eeste\Documents\Area de trabajo\perfilTicNetAngular\perfilTicNetCategories\perfilTicNetCategories.DTOs\bin\Debug\net5.0\ref\perfilTicNetCategories.DTOs.dll
+C:\Users\eeste\Documents\Area de trabajo\perfilTicNetAngular\perfilTicNetCategories\perfilTicNetCategories.DTOs\bin\Debug\net5.0\perfilTicNetCategories.DTOs.pdb
+C:\Users\eeste\Documents\Area de trabajo\perfilTicNetAngular\perfilTicNetCategories\perfilTicNetCategories.DTOs\obj\Debug\net5.0\perfilTicNetCategories.DTOs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eeste\Documents\Area de trabajo\perfilTicNetAngular\perfilTicNetCategories\perfilTicNetCategories.DTOs\obj\Debug\net5.0\perfilTicNetCategories.DTOs.AssemblyInfoInputs.cache
+C:\Users\eeste\Documents\Area de trabajo\perfilTicNetAngular\perfilTicNetCategories\perfilTicNetCategories.DTOs\obj\Debug\net5.0\perfilTicNetCategories.DTOs.AssemblyInfo.cs
+C:\Users\eeste\Documents\Area de trabajo\perfilTicNetAngular\perfilTicNetCategories\perfilTicNetCategories.DTOs\obj\Debug\net5.0\perfilTicNetCategories.DTOs.csproj.CoreCompileInputs.cache
+C:\Users\eeste\Documents\Area de trabajo\perfilTicNetAngular\perfilTicNetCategories\perfilTicNetCategories.DTOs\obj\Debug\net5.0\perfilTicNetCategories.DTOs.dll
+C:\Users\eeste\Documents\Area de trabajo\perfilTicNetAngular\perfilTicNetCategories\perfilTicNetCategories.DTOs\obj\Debug\net5.0\ref\perfilTicNetCategories.DTOs.dll
+C:\Users\eeste\Documents\Area de trabajo\perfilTicNetAngular\perfilTicNetCategories\perfilTicNetCategories.DTOs\obj\Debug\net5.0\perfilTicNetCategories.DTOs.pdb
+C:\Users\eeste\Documents\Area de trabajo\perfilTicNetAngular\perfilTicNetCategories\perfilTicNetCategories.DTOs\obj\Debug\net5.0\perfilTicNetCategories.DTOs.csproj.AssemblyReference.cache

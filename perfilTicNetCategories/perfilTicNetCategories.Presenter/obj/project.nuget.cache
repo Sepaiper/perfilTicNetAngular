@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "foslAhRMRzJx19zedr0Z2A2Hg7BbN+VoqXRVKm73gpQeFvw7ZSwyrGdwBXTnVEcpKkp/37rc5gcnhqZu/iLLEA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\eeste\\Documents\\Area de trabajo\\perfilTicNetAngular\\perfilTicNetCategories\\perfilTicNetCategories.Presenter\\perfilTicNetCategories.Presenter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\eeste\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
