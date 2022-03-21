@@ -1,0 +1,49 @@
+.imageMedia {
+    position: relative;
+    text-align: center;
+    width: 100%;
+}
+
+.containerLoginChild {
+    border-radius: 10px;
+    padding: 5px 5%;
+    margin: 0 2%;
+}
+
+.containerLogin{
+    display: flex;
+    justify-content: center;
+    align-items: center !important;
+}
+
+.imageMedia img {
+    width: 100%;
+    height: 250px;
+}
+
+.btnLogin {
+    width: 100%;
+    color: white;
+    background-color: #2A2E43;
+    border: 1px solid transparent;
+}
+
+.btnLogin:hover {
+    color: white;
+    background-color: #2A2E43;
+    border: 1px solid transparent;
+}
+
+.btnRegister {
+    width: 100%;
+    background-color: #FFB900;
+    border: 1px solid transparent;
+}
+
+.widthPassword {
+    width: 100% !important;
+}
+
+.textCenter {
+    text-align: center;
+}

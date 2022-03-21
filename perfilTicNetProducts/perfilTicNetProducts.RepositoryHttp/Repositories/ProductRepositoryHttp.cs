@@ -12,6 +12,7 @@ namespace perfilTicNetProducts.RepositoryHttp.Repositories
 {
     public class ProductRepositoryHttp : IProductRepositoryHttp
     {
+
         public async Task<bool> SearchCategory(Product product)
         {
             try
