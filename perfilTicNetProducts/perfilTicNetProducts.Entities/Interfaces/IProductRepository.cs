@@ -10,9 +10,10 @@ namespace perfilTicNetProducts.Entities.Interfaces
     public interface IProductRepository
     {
         void CreateProduct(Product product);
-        Product UpdateProduct(Product product);
-        Product ReadProduct(int idProduct);
-        void DeleteProduct(int idProduct);
-        IEnumerable<Product> GetAll(int page, int perPage);
+        void UpdateProduct(Product product);
+        void ReadProduct(Product product);
+        void DeleteProduct(Product product);
+        void GetAll(ListProduct list);
+        void GetProductsBCategory(ListProductBCategory list);
     }
 }
