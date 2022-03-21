@@ -1,0 +1,15 @@
+C:\Users\eeste\Documents\Area de trabajo\perfilTicNetAngular\perfilTicNetProducts\PerfilTicNetProduct.UseCasesPorts\bin\Debug\net5.0\PerfilTicNetProduct.UseCasesPorts.deps.json
+C:\Users\eeste\Documents\Area de trabajo\perfilTicNetAngular\perfilTicNetProducts\PerfilTicNetProduct.UseCasesPorts\bin\Debug\net5.0\PerfilTicNetProduct.UseCasesPorts.dll
+C:\Users\eeste\Documents\Area de trabajo\perfilTicNetAngular\perfilTicNetProducts\PerfilTicNetProduct.UseCasesPorts\bin\Debug\net5.0\ref\PerfilTicNetProduct.UseCasesPorts.dll
+C:\Users\eeste\Documents\Area de trabajo\perfilTicNetAngular\perfilTicNetProducts\PerfilTicNetProduct.UseCasesPorts\bin\Debug\net5.0\PerfilTicNetProduct.UseCasesPorts.pdb
+C:\Users\eeste\Documents\Area de trabajo\perfilTicNetAngular\perfilTicNetProducts\PerfilTicNetProduct.UseCasesPorts\bin\Debug\net5.0\PerfilTicNetProduct.DTOs.dll
+C:\Users\eeste\Documents\Area de trabajo\perfilTicNetAngular\perfilTicNetProducts\PerfilTicNetProduct.UseCasesPorts\bin\Debug\net5.0\PerfilTicNetProduct.DTOs.pdb
+C:\Users\eeste\Documents\Area de trabajo\perfilTicNetAngular\perfilTicNetProducts\PerfilTicNetProduct.UseCasesPorts\obj\Debug\net5.0\PerfilTicNetProduct.UseCasesPorts.csproj.AssemblyReference.cache
+C:\Users\eeste\Documents\Area de trabajo\perfilTicNetAngular\perfilTicNetProducts\PerfilTicNetProduct.UseCasesPorts\obj\Debug\net5.0\PerfilTicNetProduct.UseCasesPorts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eeste\Documents\Area de trabajo\perfilTicNetAngular\perfilTicNetProducts\PerfilTicNetProduct.UseCasesPorts\obj\Debug\net5.0\PerfilTicNetProduct.UseCasesPorts.AssemblyInfoInputs.cache
+C:\Users\eeste\Documents\Area de trabajo\perfilTicNetAngular\perfilTicNetProducts\PerfilTicNetProduct.UseCasesPorts\obj\Debug\net5.0\PerfilTicNetProduct.UseCasesPorts.AssemblyInfo.cs
+C:\Users\eeste\Documents\Area de trabajo\perfilTicNetAngular\perfilTicNetProducts\PerfilTicNetProduct.UseCasesPorts\obj\Debug\net5.0\PerfilTicNetProduct.UseCasesPorts.csproj.CoreCompileInputs.cache
+C:\Users\eeste\Documents\Area de trabajo\perfilTicNetAngular\perfilTicNetProducts\PerfilTicNetProduct.UseCasesPorts\obj\Debug\net5.0\PerfilTicNetProduct.UseCasesPorts.csproj.CopyComplete
+C:\Users\eeste\Documents\Area de trabajo\perfilTicNetAngular\perfilTicNetProducts\PerfilTicNetProduct.UseCasesPorts\obj\Debug\net5.0\PerfilTicNetProduct.UseCasesPorts.dll
+C:\Users\eeste\Documents\Area de trabajo\perfilTicNetAngular\perfilTicNetProducts\PerfilTicNetProduct.UseCasesPorts\obj\Debug\net5.0\ref\PerfilTicNetProduct.UseCasesPorts.dll
+C:\Users\eeste\Documents\Area de trabajo\perfilTicNetAngular\perfilTicNetProducts\PerfilTicNetProduct.UseCasesPorts\obj\Debug\net5.0\PerfilTicNetProduct.UseCasesPorts.pdb
